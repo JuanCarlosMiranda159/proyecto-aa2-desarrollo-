@@ -1,3 +1,6 @@
 function abrirEnlace() {
-    window.open("http://127.0.0.1:5500/pedido.html");
+    window.open("menu.html");
+}
+function crearUsuario() {
+    window.open("usuario.html");
 }
